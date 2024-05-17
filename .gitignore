@@ -5,7 +5,7 @@ venv/
 log/
 
 # Ignore virtual environment folders created by virtualenv
-artifacts/
+#artifacts/
 .venv
 .Exam_Performance.egg-info
 .logs

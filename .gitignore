@@ -1,0 +1,30 @@
+# Ignore virtual environments
+venv/
+
+# Ignore log directories
+log/
+
+# Ignore virtual environment folders created by virtualenv
+artifacts/
+.venv
+.Exam_Performance.egg-info
+.logs
+.env
+env/
+logs/
+*.log
+*.egg
+*.egg-info/
+# Ignore virtual environment
+venv/
+
+# Ignore .env file
+.env
+
+# Ignore app.py file
+
+#app.py
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

@@ -28,3 +28,5 @@ app.py
 __pycache__/
 *.py[cod]
 *$py.class
+# Ignore the .ebextensions folder
+.ebextensions/
